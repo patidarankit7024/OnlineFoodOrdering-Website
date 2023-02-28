@@ -1,0 +1,241 @@
+/* 
+Author : Mehul vyas;
+Theme: Food order website Admin;
+version 1.0;
+*/
+/* *{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.wrapper{
+   
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+}
+.text-center{
+    text-align: center;
+}
+.clearfix{
+    float: none;
+    clear: both;
+}
+
+.tbl-full{
+    width: 100%;
+}
+.tbl-30{
+    width: 30%;
+}
+
+table tr th{
+    border-bottom: 1px solid black;
+    padding: 1%;
+    text-align: left;
+}
+table tr td{
+    padding: 1%;
+}
+.btn-primary{
+    background-color: #9b59b6;
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-primary:hover{
+    background-color: #3742fa;
+}
+
+.btn-secondary{
+    background-color: #2ed573;
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-secondary:hover{
+    background-color: #009432;
+}
+
+.btn-danger{
+    background-color: #ff6b81;
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-danger:hover{
+    background-color: #ff4757;
+}
+
+.success{
+    color: #27ae60;
+}
+.error{
+    color: #ff4757;
+}
+/* Css for Menu */
+/* .menu{
+    border-bottom: 1px solid #9b59b6;
+}
+.menu ul{
+    list-style-type: none;
+}
+.menu ul li{
+    display: inline;
+    padding: 1%;
+}
+.menu ul li a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #747d8c;
+}
+.menu ul li a:hover{
+    color: #ff4757;
+}
+/* css for main content */
+/* .main-content{
+    
+    background-color: #f1f2f6;
+    padding: 3% 0;
+}
+.col-4{
+    width: 18%;
+    background-color:white;
+    margin: 1%; 
+    padding: 2%;
+    float: left;
+}
+/* Css for footer */
+/* .footer{
+    background-color: #ff4757;
+    color: white;
+}  */ 
+
+*{
+    margin: 0 ;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.wrapper{
+   
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+}
+.text-center{
+    text-align: center;
+}
+.clearfix{
+    float: none;
+    clear: both;
+}
+.tbl-full{
+    width: 100%;
+}
+.tbl-30{
+    width: 30%;
+}
+table tr th{
+    border-bottom: 1px solid black;
+    padding: 1%;
+    text-align: left;
+    
+}
+table tr td{
+    padding: 1%;
+    background-color: violet;
+}
+
+.btn-primary{
+    background-color: #3498db;
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-primary:hover{
+    background-color: #0016df;
+}
+
+.btn-secondary{
+    background-color: #00dfab;
+    padding: 1%;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-secondary:hover{
+    background-color: #51f704;
+}
+
+.btn-danger{
+    background-color: #df7300;
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-danger:hover{
+    background-color:#e91010;
+}
+
+.success{
+    color:#00dfab;
+}
+.error{
+    color: #e91010;
+}
+/* Css for Menu */
+.menu{
+    border-bottom: 1px solid grey;
+    
+}
+.menu ul{
+    list-style-type: none;
+}
+.menu ul li{
+    display: inline;
+    padding: 1%;
+}
+.menu ul li a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #747d8c;
+}
+.menu ul li a:hover{
+    color: #ff4757;
+}
+/* css for mai content */
+.main-content{
+    
+    background-color: #f1f2f6;
+    padding: 3% 0;
+}
+.col-4{
+    width: 18%;
+    background-color: white;
+    margin: 1%;
+    padding: 2%;
+    float: left;
+}
+/* Css for footer */
+.footer{
+    background-color: #ff4757;
+    color: white;
+}
+
+/* css for login*/
+.login{
+    border: 1px solid #747d8c;
+    width: 20%;
+    margin: 10% auto;
+    padding: 2%;
+    background-color: aqua;
+}
+
+
+
